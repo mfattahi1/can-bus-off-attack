@@ -75,7 +75,7 @@ Arguments:
 ### Examples
 
 ```bash
-# Default settings (10 seconds, target 0x18E06289)
+# Default settings (10 seconds, target 0x123)
 python3 bus_off_attack.py
 
 # Custom target ID and duration

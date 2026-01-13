@@ -48,7 +48,7 @@ def main():
                 print("Usage: python3 bus_off_attack.py [options]")
                 print("\nOptions:")
                 print("  --channel <name>    CAN interface (default: can0)")
-                print("  --target <id>       Target CAN ID in hex (default: 0x18E06289)")
+                print("  --target <id>       Target CAN ID in hex (default: 0x123)")
                 print("  --duration <sec>    Attack duration in seconds (default: 10)")
                 print("  -h, --help          Show this help")
                 return
